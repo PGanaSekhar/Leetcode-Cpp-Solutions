@@ -17,5 +17,6 @@
 #### [995. Minimum Number of K Consecutive Bit Flips](https://github.com/PGanaSekhar/Leetcode-Cpp-Solutions/blob/main/995.%20Minimum%20Number%20of%20K%20Consecutive%20Bit%20Flips.cpp)
 #### [1608. Special Array With X Elements Greater Than or Equal X](https://github.com/PGanaSekhar/Leetcode-Cpp-Solutions/blob/main/1608.%20Special%20Array%20With%20X%20Elements%20Greater%20Than%20or%20Equal%20X.cpp)
 #### [1614. Maximum Nesting Depth of the Parentheses](https://github.com/PGanaSekhar/Leetcode-Cpp-Solutions/blob/main/1614.%20Maximum%20Nesting%20Depth%20of%20the%20Parentheses.cpp)
+#### [2126. Destroying Asteroids](https://github.com/PGanaSekhar/Leetcode-Cpp-Solutions/blob/main/2126.%20Destroying%20Asteroids.cpp)
 #### [2486. Append Characters to String to Make Subsequence](https://github.com/PGanaSekhar/Leetcode-Cpp-Solutions/blob/main/2486.%20Append%20Characters%20to%20String%20to%20Make%20Subsequence.cpp)
 #### [3195. Find the Minimum Area to Cover All Ones I](https://github.com/PGanaSekhar/Leetcode-Cpp-Solutions/blob/main/3195.%20Find%20the%20Minimum%20Area%20to%20Cover%20All%20Ones%20I.cpp)
