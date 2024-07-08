@@ -15,6 +15,8 @@
 #### [448. Find All Numbers Disappeared in an Array](https://github.com/PGanaSekhar/Leetcode-Cpp-Solutions/blob/main/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array.cpp)
 #### [496. Next Greater Element I](https://github.com/PGanaSekhar/Leetcode-Cpp-Solutions/blob/main/496.%20Next%20Greater%20Element%20I.cpp)
 #### [995. Minimum Number of K Consecutive Bit Flips](https://github.com/PGanaSekhar/Leetcode-Cpp-Solutions/blob/main/995.%20Minimum%20Number%20of%20K%20Consecutive%20Bit%20Flips.cpp)
+#### [1518. Water Bottles](https://github.com/PGanaSekhar/Leetcode-Cpp-Solutions/blob/main/1518.%20Water%20Bottles.cpp)
+#### [1550. Three Consecutive Odds](https://github.com/PGanaSekhar/Leetcode-Cpp-Solutions/blob/main/1550.%20Three%20Consecutive%20Odds.cpp)
 #### [1608. Special Array With X Elements Greater Than or Equal X](https://github.com/PGanaSekhar/Leetcode-Cpp-Solutions/blob/main/1608.%20Special%20Array%20With%20X%20Elements%20Greater%20Than%20or%20Equal%20X.cpp)
 #### [1614. Maximum Nesting Depth of the Parentheses](https://github.com/PGanaSekhar/Leetcode-Cpp-Solutions/blob/main/1614.%20Maximum%20Nesting%20Depth%20of%20the%20Parentheses.cpp)
 #### [2126. Destroying Asteroids](https://github.com/PGanaSekhar/Leetcode-Cpp-Solutions/blob/main/2126.%20Destroying%20Asteroids.cpp)
