@@ -19,6 +19,7 @@
 #### [1550. Three Consecutive Odds](https://github.com/PGanaSekhar/Leetcode-Cpp-Solutions/blob/main/1550.%20Three%20Consecutive%20Odds.cpp)
 #### [1608. Special Array With X Elements Greater Than or Equal X](https://github.com/PGanaSekhar/Leetcode-Cpp-Solutions/blob/main/1608.%20Special%20Array%20With%20X%20Elements%20Greater%20Than%20or%20Equal%20X.cpp)
 #### [1614. Maximum Nesting Depth of the Parentheses](https://github.com/PGanaSekhar/Leetcode-Cpp-Solutions/blob/main/1614.%20Maximum%20Nesting%20Depth%20of%20the%20Parentheses.cpp)
+#### [1701. Average Waiting Time](https://github.com/PGanaSekhar/Leetcode-Cpp-Solutions/blob/main/1701.%20Average%20Waiting%20Time.cpp)
 #### [2126. Destroying Asteroids](https://github.com/PGanaSekhar/Leetcode-Cpp-Solutions/blob/main/2126.%20Destroying%20Asteroids.cpp)
 #### [2486. Append Characters to String to Make Subsequence](https://github.com/PGanaSekhar/Leetcode-Cpp-Solutions/blob/main/2486.%20Append%20Characters%20to%20String%20to%20Make%20Subsequence.cpp)
 #### [3195. Find the Minimum Area to Cover All Ones I](https://github.com/PGanaSekhar/Leetcode-Cpp-Solutions/blob/main/3195.%20Find%20the%20Minimum%20Area%20to%20Cover%20All%20Ones%20I.cpp)
