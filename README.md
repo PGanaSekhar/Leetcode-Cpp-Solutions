@@ -22,4 +22,5 @@
 #### [1701. Average Waiting Time](https://github.com/PGanaSekhar/Leetcode-Cpp-Solutions/blob/main/1701.%20Average%20Waiting%20Time.cpp)
 #### [2126. Destroying Asteroids](https://github.com/PGanaSekhar/Leetcode-Cpp-Solutions/blob/main/2126.%20Destroying%20Asteroids.cpp)
 #### [2486. Append Characters to String to Make Subsequence](https://github.com/PGanaSekhar/Leetcode-Cpp-Solutions/blob/main/2486.%20Append%20Characters%20to%20String%20to%20Make%20Subsequence.cpp)
+#### [2751. Robot Collisions](https://github.com/PGanaSekhar/Leetcode-Cpp-Solutions/blob/main/2751.%20Robot%20Collisions.cpp)
 #### [3195. Find the Minimum Area to Cover All Ones I](https://github.com/PGanaSekhar/Leetcode-Cpp-Solutions/blob/main/3195.%20Find%20the%20Minimum%20Area%20to%20Cover%20All%20Ones%20I.cpp)
