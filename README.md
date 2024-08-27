@@ -2,6 +2,7 @@
 
 ## This is a repo where I have my Leetcode solutions in C++ or CPP programming.
 
+#### [53. Maximum Subarray](https://github.com/PGanaSekhar/Leetcode-Cpp-Solutions/blob/main/53.%20Maximum%20Subarray.cpp)
 #### [55. Jump Game](https://github.com/PGanaSekhar/Leetcode-Cpp-Solutions/blob/main/55.%20Jump%20Game.cpp)
 #### [75. Sort Colors](https://github.com/PGanaSekhar/Leetcode-Cpp-Solutions/blob/main/75.%20Sort%20Colors.cpp)
 #### [81. Search in Rotated Sorted Array II](https://github.com/PGanaSekhar/Leetcode-Cpp-Solutions/blob/main/81.%20Search%20in%20Rotated%20Sorted%20Array%20II.cpp)
