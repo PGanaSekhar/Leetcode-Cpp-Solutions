@@ -27,6 +27,7 @@
 #### [1608. Special Array With X Elements Greater Than or Equal X](https://github.com/PGanaSekhar/Leetcode-Cpp-Solutions/blob/main/1608.%20Special%20Array%20With%20X%20Elements%20Greater%20Than%20or%20Equal%20X.cpp)
 #### [1614. Maximum Nesting Depth of the Parentheses](https://github.com/PGanaSekhar/Leetcode-Cpp-Solutions/blob/main/1614.%20Maximum%20Nesting%20Depth%20of%20the%20Parentheses.cpp)
 #### [1701. Average Waiting Time](https://github.com/PGanaSekhar/Leetcode-Cpp-Solutions/blob/main/1701.%20Average%20Waiting%20Time.cpp)
+#### [2022. Convert 1D Array Into 2D Array](https://github.com/PGanaSekhar/Leetcode-Cpp-Solutions/blob/main/2022.%20Convert%201D%20Array%20Into%202D%20Array.cpp)
 #### [2126. Destroying Asteroids](https://github.com/PGanaSekhar/Leetcode-Cpp-Solutions/blob/main/2126.%20Destroying%20Asteroids.cpp)
 #### [2486. Append Characters to String to Make Subsequence](https://github.com/PGanaSekhar/Leetcode-Cpp-Solutions/blob/main/2486.%20Append%20Characters%20to%20String%20to%20Make%20Subsequence.cpp)
 #### [2751. Robot Collisions](https://github.com/PGanaSekhar/Leetcode-Cpp-Solutions/blob/main/2751.%20Robot%20Collisions.cpp)
