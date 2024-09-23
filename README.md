@@ -21,6 +21,7 @@
 #### [509. Fibonacci Number](https://github.com/PGanaSekhar/Leetcode-Cpp-Solutions/blob/main/509.%20Fibonacci%20Number.cpp)
 #### [995. Minimum Number of K Consecutive Bit Flips](https://github.com/PGanaSekhar/Leetcode-Cpp-Solutions/blob/main/995.%20Minimum%20Number%20of%20K%20Consecutive%20Bit%20Flips.cpp)
 #### [1021. Remove Outermost Parentheses](https://github.com/PGanaSekhar/Leetcode-Cpp-Solutions/blob/main/1021.%20Remove%20Outermost%20Parentheses.cpp)
+#### [1310. XOR Queries of a Subarray](https://github.com/PGanaSekhar/Leetcode-Cpp-Solutions/blob/main/1310.%20XOR%20Queries%20of%20a%20Subarray.cpp)
 #### [1380. Lucky Numbers in a Matrix](https://github.com/PGanaSekhar/Leetcode-Cpp-Solutions/blob/main/1380.%20Lucky%20Numbers%20in%20a%20Matrix.cpp)
 #### [1518. Water Bottles](https://github.com/PGanaSekhar/Leetcode-Cpp-Solutions/blob/main/1518.%20Water%20Bottles.cpp)
 #### [1550. Three Consecutive Odds](https://github.com/PGanaSekhar/Leetcode-Cpp-Solutions/blob/main/1550.%20Three%20Consecutive%20Odds.cpp)
