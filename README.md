@@ -33,3 +33,5 @@
 #### [2486. Append Characters to String to Make Subsequence](https://github.com/PGanaSekhar/Leetcode-Cpp-Solutions/blob/main/2486.%20Append%20Characters%20to%20String%20to%20Make%20Subsequence.cpp)
 #### [2751. Robot Collisions](https://github.com/PGanaSekhar/Leetcode-Cpp-Solutions/blob/main/2751.%20Robot%20Collisions.cpp)
 #### [3195. Find the Minimum Area to Cover All Ones I](https://github.com/PGanaSekhar/Leetcode-Cpp-Solutions/blob/main/3195.%20Find%20the%20Minimum%20Area%20to%20Cover%20All%20Ones%20I.cpp)
+#### [3254. Find the Power of K-Size Subarrays I](https://github.com/PGanaSekhar/Leetcode-Cpp-Solutions/blob/main/3254.%20Find%20the%20Power%20of%20K-Size%20Subarrays%20I.cpp)
+
