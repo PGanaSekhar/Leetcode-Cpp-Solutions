@@ -23,6 +23,7 @@
 #### [1021. Remove Outermost Parentheses](https://github.com/PGanaSekhar/Leetcode-Cpp-Solutions/blob/main/1021.%20Remove%20Outermost%20Parentheses.cpp)
 #### [1310. XOR Queries of a Subarray](https://github.com/PGanaSekhar/Leetcode-Cpp-Solutions/blob/main/1310.%20XOR%20Queries%20of%20a%20Subarray.cpp)
 #### [1380. Lucky Numbers in a Matrix](https://github.com/PGanaSekhar/Leetcode-Cpp-Solutions/blob/main/1380.%20Lucky%20Numbers%20in%20a%20Matrix.cpp)
+#### [1475. Final Prices With a Special Discount in a Shop](https://github.com/PGanaSekhar/Leetcode-Cpp-Solutions/blob/main/1475.%20Final%20Prices%20With%20a%20Special%20Discount%20in%20a%20Shop.cpp)
 #### [1518. Water Bottles](https://github.com/PGanaSekhar/Leetcode-Cpp-Solutions/blob/main/1518.%20Water%20Bottles.cpp)
 #### [1550. Three Consecutive Odds](https://github.com/PGanaSekhar/Leetcode-Cpp-Solutions/blob/main/1550.%20Three%20Consecutive%20Odds.cpp)
 #### [1608. Special Array With X Elements Greater Than or Equal X](https://github.com/PGanaSekhar/Leetcode-Cpp-Solutions/blob/main/1608.%20Special%20Array%20With%20X%20Elements%20Greater%20Than%20or%20Equal%20X.cpp)
@@ -34,4 +35,3 @@
 #### [2751. Robot Collisions](https://github.com/PGanaSekhar/Leetcode-Cpp-Solutions/blob/main/2751.%20Robot%20Collisions.cpp)
 #### [3195. Find the Minimum Area to Cover All Ones I](https://github.com/PGanaSekhar/Leetcode-Cpp-Solutions/blob/main/3195.%20Find%20the%20Minimum%20Area%20to%20Cover%20All%20Ones%20I.cpp)
 #### [3254. Find the Power of K-Size Subarrays I](https://github.com/PGanaSekhar/Leetcode-Cpp-Solutions/blob/main/3254.%20Find%20the%20Power%20of%20K-Size%20Subarrays%20I.cpp)
-
